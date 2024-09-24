@@ -55,5 +55,3 @@ Contributions are welcome! Please feel free to submit pull requests or open issu
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-This structure improves readability and ensures clarity in each section, making it easier for users and developers to understand and contribute to the project.
